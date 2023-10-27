@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Voter Registration</string>
+
+    <string name="login">Login</string>
+    <string name="logout">Log Out</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="con_password">Confirm Password</string>
+    <string name="reg_user">Register a User</string>
+    <string name="create_a_new_user">Create a New User</string>
+    <string name="dob">Date of Birth</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="register">Register</string>
+    <string name="address">Address</string>
+    <string name="taluk">Taluk</string>
+    <string name="district">District</string>
+    <string name="state">State</string>
+    <string name="total_voter_count">Total Voter\n Count</string>
+    <string name="today_voter_count">Today Register\n Count</string>
+    <string name="dash_board">Dash Board</string>
+    <string name="voter_registration">Voter Registration</string>
+    <string name="user_registration">User Registration</string>
+    <string name="welcome_to_voter_registration">Welcome \nto \nVoter Registration</string>
+    <string name="welcome_to_voter_registration_system">Welcome to \nVoter Registration System</string>
+    <string name="submit">Submit</string>
+    <string name="register_a_voter">Register a Voter</string>
+    <string name="email_not_registered">Email not registered</string>
+    <string name="email_id_is_not_activated">Email ID is not Activated</string>
+    <string name="invalid_email_format">Invalid email format</string>
+    <string name="invalid_password_format">Invalid password format</string>
+    <string name="password_mismatch">Password Mismatch</string>
+    <string name="invalid_name">Invalid Name</string>
+    <string name="email_already_exit">Email already exit</string>
+    <string name="address_required">Address Required</string>
+    <string name="taluk_required">Taluk Required</string>
+    <string name="district_required">District Required</string>
+    <string name="state_required">State Required</string>
+    <string name="user_is_under_18">User is under 18</string>
+    <string name="invalid_mobile_number">Invalid Mobile Number</string>
+
+</resources>
