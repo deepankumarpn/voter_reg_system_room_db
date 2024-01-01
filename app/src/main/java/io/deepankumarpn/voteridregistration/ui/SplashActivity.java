@@ -28,6 +28,7 @@ public class SplashActivity extends AppCompatActivity {
             finish();
         }
     }
+    Log.e("SplashActivity","A");
     Log.e("SplashActivity","B");
     Log.e("SplashActivity","C");
 }
