@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 
 import io.deepankumarpn.voteridregistration.data.local.SharedPreferencesManager;
 import io.deepankumarpn.voteridregistration.databinding.ActivitySplashBinding;
@@ -27,5 +28,5 @@ public class SplashActivity extends AppCompatActivity {
             finish();
         }
     }
-
+    Log.e("SplashActivity","B");
 }
